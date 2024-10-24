@@ -1,7 +1,7 @@
 This is the official code repository of the book:
 **Embedded Machine Learning with Microcontrollers: Applications on Arduino Development Boards**
 
-# The Arduino codes for the end of chapter application are due in December.
+# The Arduino codes for the end of chapter applications are due in December.
 
 ## Before you start
 Before getting started, it is highly recommended to create a Python virtual environment and install required libraries. To do so, run the following command in your terminal:
