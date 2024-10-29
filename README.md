@@ -24,7 +24,7 @@ or
 
 ### Running Embedded Project Files
 
-Furthermore, one can directly import ?? projects to ?? IDE using the ?? Projects folder under each chapter.
+Furthermore, one can directly import projects to Arduino IDE using the End of Chapter folders under each chapter.
 
 <TBD>
 
